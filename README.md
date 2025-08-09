@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey! My name is Jose. I'm currently reinforcing my knowledge on GitHub fundamentals so I can add it to my skillset and get certified.
+Hey! My name is Andrés. I'm currently reinforcing my knowledge on GitHub fundamentals so I can add it to my skillset and get certified.
